@@ -57,7 +57,7 @@ For issues with specific versions, open an issue and tell us what's wrong with a
 
 ## Credits
 
-- [Cobalt Bar](https://cobaltbar.github.io/) - Putting the collection together
+- [CCobaltDev](https://ccobaltdev.github.io/) - Putting the collection together
 - [tposejank](https://tposejank.carrd.co/) - SScript zips + verification
 - [LarryFrosty](https://www.youtube.com/@larryfrosty) - SScript zips
 - [Moonlight Catalyst](https://mooniecat.carrd.co/) - SScript zips
